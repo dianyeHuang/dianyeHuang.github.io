@@ -12,6 +12,13 @@ $ bundle install
 $ bundle exec jekyll serve
 ```
 
+before submit
+
+```bash
+$ npx prettier . --check
+$ npx prettier . --write
+```
+
 @article{huang2025improving,
 title={Improving Robustness to Out-of-Distribution States in Imitation Learning via Deep Koopman-Boosted Diffusion Policy},
 author={Huang, Dianye and Navab, Nassir and Jiang, Zhongliang},
@@ -33,5 +40,3 @@ annotation = {},
 selected = {true},
 preview = {} publication preview
 }
-
-npx prettier . --write
