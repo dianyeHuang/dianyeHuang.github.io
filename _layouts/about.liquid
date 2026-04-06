@@ -1,0 +1,204 @@
+---
+layout: default
+---
+<div class="post">
+  <!-- Row 1: image (left) + name/info (right) -->
+  {% comment %} <div class="row about-top-row mb-4 justify-content-center align-items-center"> {% endcomment %}
+  <div class="row about-top-row mb-4 align-items-center">
+    <div class="col-md-3">
+      {% if page.profile.image %}
+        {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
+        {% if page.profile.image_circular %}
+          {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+        {% else %}
+          {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+        {% endif %}
+        {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
+    30vw, 95vw"{% endcapture %}
+        {%
+          include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+          cache_bust=true
+        %}
+      {% endif %}
+      {% comment %}
+        {% if page.profile.more_info %}
+          <div class="more-info">{{ page.profile.more_info }}</div>
+        {% endif %}
+      {% endcomment %}
+    </div>
+
+    <div class="col-md-8 about-info">
+      <header class="post-header">
+        <h1 class="post-title">
+          {% if site.title == 'blank' %}
+            <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+            {{ site.last_name }}
+          {% else %}
+            {{ site.title }}
+          {% endif %}
+        </h1>
+        <div class="desc">{{ page.subtitle }}</div>
+        <!-- Social -->
+        {% if page.social %}
+          <div class="social">
+            <div class="contact-icons" style="display: flex; gap: 10px;">
+              {% comment %} <span style="font-family: inherit; font-size: 1.2rem; font-weight: 500;"> Find me at </span> {% endcomment %}
+              <span style="font-size: 1.4rem;">
+                {% social_links %}
+              </span>
+            </div>
+          </div>
+        {% endif %}
+      </header>
+    </div>
+  </div>
+
+  <article>
+    <style>
+      .recruit blockquote {
+        background-color: #fff3b0;
+        padding: 10px 14px;
+        border-left: 10px solid #1e4caf;
+        border-right: 10px solid #1e4caf;
+        border-radius: 4px;
+        font-size: 18px;
+        /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+        /* font-family: "Inter", "Segoe UI", Roboto, sans-serif; */
+      }
+      .recruit blockquote * {
+        color: rgb(0, 0, 0) !important;
+      }
+      .recruit blockquote a {
+        /* color: #1e4caf !important; */
+        text-decoration: underline;
+      }
+    </style>
+    <div class="recruit">
+      {% capture open_positions_content %}
+      {% include open_positions.md %}
+      {% endcapture %}
+      {{ open_positions_content | markdownify }}
+    </div>
+  </article>
+
+  <article>
+    <div class="row">
+      <!-- Left column: 2/3 width -->
+      <div class="col-md-8">
+        <!-- About me -->
+        <h2
+          class="desc"
+          style="
+            font-family: Georgia, 'Times New Roman', serif;
+            border-bottom:1px solid #999;
+            padding-bottom:2px;
+          "
+        >
+          {% comment %} <b>About me</b> {% endcomment %}
+          <b><span style="color: #0065bd;">About Me</span></b>
+        </h2>
+        {% comment %} <div class="clearfix">{{ content }}</div> {% endcomment %}
+        <div class="clearfix" style="text-align: justify;">
+          {{ content }}
+        </div>
+      </div>
+
+      <!-- Right column: 1/3 width -->
+      <div class="col-md-4">
+        <!-- News -->
+        {% if page.announcements and page.announcements.enabled %}
+          <h2
+            style="
+              font-family: Georgia, 'Times New Roman', serif;
+              border-bottom:1px solid #999;
+              padding-bottom:2px;
+            "
+          >
+            <a href="{{ '/news/' | relative_url }}" style="color: #0065bd;">
+              News <span style="font-size: 1.1rem; color: #0065bd;">[all]</span> <br>
+            </a>
+          </h2>
+          <div class="news-small">
+            {% include news.liquid limit=true %}
+          </div>
+          <style>
+            .news-small {
+              font-size: 1.2rem;
+              line-height: 1.4;
+            }
+            .news-small th {
+              font-size: 0.87rem;
+              /* color: #666; */
+            }
+            .news-small td {
+              font-size: 1rem;
+            }
+          </style>
+        {% endif %}
+      </div>
+    </div>
+
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <h2
+        style="
+          font-family: Georgia,
+          'Times New Roman', serif;
+          border-bottom:1px solid #999;
+          padding-bottom:2px;
+        "
+      >
+        <a
+          href="{{ '/publications/' | relative_url }}"
+          style="color: #0065bd;"
+        >
+          <br>
+          Selected Publications
+        </a>
+        <a
+          href="https://scholar.google.com/citations?user=GY_9Zq8AAAAJ&hl=en"
+          style="color: #0065bd; font-size: 1.1rem;"
+        >
+          [Google Scholar]<br>
+        </a>
+      </h2>
+      {% include selected_papers.liquid %}
+      {% comment %}
+        <div
+          {% if page.selected_papers_scrollable %}
+            style="max-height: 420px; overflow-y: auto; overflow-x: hidden; width: 100%; padding-right: 8px;"
+          {% endif %}
+        >
+          {% include selected_papers.liquid %}
+        </div>
+      {% endcomment %}
+    {% endif %}
+
+    <!-- Demo videos -->
+    {% comment %}  {% endcomment %}
+
+    <!-- Visitor -->
+    <div style="margin-top: 1rem; text-align: right;">
+      {% comment %}
+        <script
+          type="text/javascript"
+          id="clustrmaps"
+          src="https://clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=m0B_MaKSg2ML0sIxH9DY0V71T0V-0LQawijg7MU9rOY">
+        </script>
+      {% endcomment %}
+
+      {% comment %}
+        <script type="text/javascript" id="clstr_globe"
+          src="https://clustrmaps.com/globe.js?d=m0B_MaKSg2ML0sIxH9DY0V71T0V-0LQawijg7MU9rOY">
+        </script>
+      {% endcomment %}
+
+      <a href="https://clustrmaps.com/site/1c9n9" title="ClustrMaps">
+        <img src="https://www.clustrmaps.com/map_v2.png?d=m0B_MaKSg2ML0sIxH9DY0V71T0V-0LQawijg7MU9rOY&cl=ffffff">
+      </a>
+    </div>
+    {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
+      {% include newsletter.liquid center=false %}
+    {% endif %}
+  </article>
+</div>
