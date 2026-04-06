@@ -9,6 +9,7 @@ $ bundle install
 - Execution
 
 ```bash
+$ bundle exec jekyll clean
 $ bundle exec jekyll serve
 ```
 
@@ -42,6 +43,7 @@ preview = {} publication preview
 }
 
 renew github update
+
 ```bash
 git checkout --orphan fresh-start
 git add .
