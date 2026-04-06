@@ -40,3 +40,13 @@ annotation = {},
 selected = {true},
 preview = {} publication preview
 }
+
+renew github update
+```bash
+git checkout --orphan fresh-start
+git add .
+git commit -m "Initial commit"
+git branch -D main
+git branch -m main
+git push --force-with-lease origin main
+```
