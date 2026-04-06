@@ -1,0 +1,37 @@
+# Announcement files
+
+- announcement_01.md: 1 paper accepted by ICRA2026
+- announcement_02.md: Serve as an Associate Editor for IROS2026
+- announcement_03.md: <HIT Webinar> Invited Dr. Long Bai (Chinese University of Hong Kong) to deliver a talk and hosted the session
+- announcement_04.md: 1 paper accepted by Handbook of Robotic and Image-Guided Surgery
+- announcement_05.md: 1 paper early accepted by IPCAI2026, Nagoya
+- announcement_06.md: <HIT Webinar> Invited Dr. Qianhui Men (Lecturer at the University of Bristol) to deliver a talk and hosted the session
+- announcement_07.md: 1 paper accepted by IEEE Transactions on Robotics (TRO)
+- announcement_08.md: 1 paper accepted by IEEE/ASME Transactions on Mechatronics
+- announcement_09.md: Serve as an Associate Editor for ICRA2026
+- announcement_10.md: Received the IES SYPA Travel Award for IROS2025
+- announcement_11.md: <HIT Webinar> Invited Prof. Jipeng Yan (Harbin Institute of Technology) to deliver a talk and hosted the session
+- announcement_12.md: <HIT Webinar> Invited Prof. Guochen Ning (Tsinghua University) to deliver a talk and hosted the session
+- announcement_13.md: 2 papers accepted by IROS2025, Hangzhou
+- announcement_14.md: 1 paper accepted by MICCAI2025
+- announcement_15.md: Student organizer of the 3rd Robotic-Assisted Medical Imaging (RAMI) workshop at ICRA2025, May, Atlanta, USA
+- announcement_16.md: <HIT Webinar> Invited Dr. Zhen Chen (Yale University) to deliver a talk and hosted the session.
+- announcement_17.md: Received the “Best Innovation Award” at the MRC symposium 2025
+- announcement_18.md: <HIT Webinar> Invited Dr. Xihan Ma (Worcester Polytechnic Institute) to deliver a talk and hosted the session
+- announcement_19.md: <HIT Webinar> Invited Prof. Yutong Xie (MBZUAI) to deliver a talk and hosted the session
+- announcement_20.md: 1 paper accepted by IEEE Transactions on Medical Imaging
+- announcement_21.md: 1 paper accepted by ICRA2025, Atlanta
+- announcement_22.md: <HIT Webinar>Invited Prof. Liang Zhao (The University of Edinburgh) to deliver a talk and hosted the session
+- announcement_23.md: <HIT Webinar>Invited Dr. Yicheng Wu (Monash University) to deliver a talk and hosted the session
+- announcement_24.md: 1 paper early accepted by IPCAI2025, Berlin
+- announcement_25.md: Join the Healthcare, Intelligence, Technology Webinar (HIT Webinar) organization team
+- announcement_26.md: Student organizer of the 2nd Robotic-Assisted Medical Imaging (RAMI) workshop at ICRA2024, May, Yokohama, Japan
+- announcement_27.md: 1 paper accepted by IEEE Transactions on Industrial Informatics
+- announcement_28.md: 1 paper accepted by Annual Review of Control, Robotics, and Autonomous Systems
+- announcement_29.md: 1 paper accepted by ICRA2024, Yokohama
+- announcement_30.md: 1 paper accepted by IEEE Transactions on Automation Science and Engineering (presented at IROS2024)
+- announcement_31.md: 1 paper accepted by IROS2023, Detroit
+- announcement_32.md: Student organizer of the 1st Robotic-Assisted Medical Imaging (RAMI) workshop at ICRA2023, May, London, UK
+- announcement_33.md: 1 paper accepted by ICRA2023, London
+- announcement_34.md: 1 paper accepted by Robotics and Autonomous Systems
+- announcement_35.md: Join CAMP
