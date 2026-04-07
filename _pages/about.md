@@ -7,7 +7,7 @@ subtitle: |
   <a href='https://meweb.hku.hk/zljiang/' style="color: inherit;">Medical Intelligence and Robotic Cognition (MIRoC) Lab, </a> <br>
   <a href='https://mech.hku.hk' style="color: inherit;">Department of Mechanical Engineering</a>, <a href='https://www.hku.hk' style="color: inherit;">The University of Hong Kong</a> <br>
   <br>
-  Address: <a href='https://maps.app.goo.gl/b7ppuy2MP5yQY4Nn9'>Rm G10, Haking Wong Building, Pokfulam Rd, HK SAR, China</a> <br>
+  Address: <a href='https://maps.app.goo.gl/b7ppuy2MP5yQY4Nn9'>Rm G10, Haking Wong Building, Pokfulam Road, HK SAR, China</a> <br>
   Email: <a href="mailto:dianye.huang@hku.hk">dianye.huang@hku.hk</a>
 
 profile:
