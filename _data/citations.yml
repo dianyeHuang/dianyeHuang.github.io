@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-04-13'
 papers:
   GY_9Zq8AAAAJ:0EnyYjriUFMC:
     citations: 25
@@ -54,7 +54,7 @@ papers:
     title: 'Sg-bot: Object rearrangement via coarse-to-fine robotic imagination on scene graphs'
     year: '2024'
   GY_9Zq8AAAAJ:W7OEmFMy1HYC:
-    citations: 12
+    citations: 13
     title: 'Adaptive dynamic programming enhanced admittance control for robots with environment interaction and actuator saturation: H. Zhan et al.'
     year: '2021'
   GY_9Zq8AAAAJ:WF5omc3nYNoC:
@@ -90,7 +90,7 @@ papers:
     title: 'Translational Research and Clinical Trends in Robot-Assisted Vascular Surgery: A Narrative Overview'
     year: '2026'
   GY_9Zq8AAAAJ:hqOjcs7Dif8C:
-    citations: 60
+    citations: 61
     title: 'Machine learning in robotic ultrasound imaging: Challenges and perspectives'
     year: '2024'
   GY_9Zq8AAAAJ:mVmsd5A6BfQC:
