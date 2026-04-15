@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-15'
 papers:
   GY_9Zq8AAAAJ:0EnyYjriUFMC:
     citations: 25
@@ -42,7 +42,7 @@ papers:
     title: Robotic CBCT meets robotic ultrasound
     year: '2025'
   GY_9Zq8AAAAJ:Se3iqnhoufwC:
-    citations: 28
+    citations: 29
     title: 'Motion magnification in robotic sonography: Enabling pulsation-aware artery segmentation'
     year: '2023'
   GY_9Zq8AAAAJ:ULOm3_A8WrAC:
