@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-05-13'
 papers:
   GY_9Zq8AAAAJ:0EnyYjriUFMC:
-    citations: 25
+    citations: 28
     title: Robot-assisted deep venous thrombosis ultrasound examination using virtual fixture
     year: '2024'
   GY_9Zq8AAAAJ:3fE2CSJIrl8C:
-    citations: 13
+    citations: 14
     title: 'Vibnet: Vibration-boosted needle detection in ultrasound images'
     year: '2025'
   GY_9Zq8AAAAJ:4DMP91E08xMC:
@@ -18,19 +18,19 @@ papers:
     title: An efficient neural network control for manipulator trajectory tracking with output constraints
     year: '2017'
   GY_9Zq8AAAAJ:8k81kl-MbHgC:
-    citations: 13
+    citations: 16
     title: Safe multiagent learning with soft constrained policy optimization in real robot control
     year: '2024'
   GY_9Zq8AAAAJ:9ZlFYXVOiuMC:
     citations: 0
-    title: 'ConVibNet: Needle Detection during Continuous Insertion via Frequency-Inspired Features'
+    title: 'ConVibNet: needle detection during continuous insertion via frequency-inspired features'
     year: '2026'
   GY_9Zq8AAAAJ:KlAtU1dfN6UC:
     citations: 4
     title: Semantic scene graph for ultrasound image explanation and scanning guidance
     year: '2025'
   GY_9Zq8AAAAJ:LkGwnXOMwfcC:
-    citations: 57
+    citations: 61
     title: 'Monograspnet: 6-dof grasping with a single rgb image'
     year: '2023'
   GY_9Zq8AAAAJ:M3ejUd6NZC8C:
@@ -50,7 +50,7 @@ papers:
     title: Vibration-Based Energy Metric for Restoring Needle Alignment in Autonomous Robotic Ultrasound
     year: '2025'
   GY_9Zq8AAAAJ:UebtZRa9Y70C:
-    citations: 45
+    citations: 47
     title: 'Sg-bot: Object rearrangement via coarse-to-fine robotic imagination on scene graphs'
     year: '2024'
   GY_9Zq8AAAAJ:W7OEmFMy1HYC:
@@ -70,15 +70,15 @@ papers:
     title: Improving Probe Localization for Freehand 3D Ultrasound Using Lightweight Cameras
     year: '2025'
   GY_9Zq8AAAAJ:YsMSGLbcyi4C:
-    citations: 157
+    citations: 158
     title: Composite learning enhanced neural control for robot manipulator with output error constraints
     year: '2019'
   GY_9Zq8AAAAJ:Zph67rFs4hoC:
-    citations: 0
+    citations: 1
     title: 'Tactile-Guided Robotic Ultrasound: Mapping Preplanned Scan Paths for Intercostal Imaging'
     year: '2025'
   GY_9Zq8AAAAJ:_FxGoFyzp5QC:
-    citations: 294
+    citations: 298
     title: Neural control of robot manipulators with trajectory tracking constraints and input saturation
     year: '2020'
   GY_9Zq8AAAAJ:_kc_bZDykSQC:
@@ -90,7 +90,7 @@ papers:
     title: 'Translational Research and Clinical Trends in Robot-Assisted Vascular Surgery: A Narrative Overview'
     year: '2026'
   GY_9Zq8AAAAJ:hqOjcs7Dif8C:
-    citations: 61
+    citations: 67
     title: 'Machine learning in robotic ultrasound imaging: Challenges and perspectives'
     year: '2024'
   GY_9Zq8AAAAJ:mVmsd5A6BfQC:
