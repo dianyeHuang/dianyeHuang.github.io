@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-25'
 papers:
   GY_9Zq8AAAAJ:0EnyYjriUFMC:
     citations: 28
@@ -50,7 +50,7 @@ papers:
     title: Vibration-Based Energy Metric for Restoring Needle Alignment in Autonomous Robotic Ultrasound
     year: '2025'
   GY_9Zq8AAAAJ:UebtZRa9Y70C:
-    citations: 47
+    citations: 48
     title: 'Sg-bot: Object rearrangement via coarse-to-fine robotic imagination on scene graphs'
     year: '2024'
   GY_9Zq8AAAAJ:W7OEmFMy1HYC:
@@ -66,7 +66,7 @@ papers:
     title: Online robot reference trajectory adaptation for haptic identification of unknown force field
     year: '2018'
   GY_9Zq8AAAAJ:YOwf2qJgpHMC:
-    citations: 2
+    citations: 3
     title: Improving Probe Localization for Freehand 3D Ultrasound Using Lightweight Cameras
     year: '2025'
   GY_9Zq8AAAAJ:YsMSGLbcyi4C:
@@ -89,8 +89,12 @@ papers:
     citations: 0
     title: 'Translational Research and Clinical Trends in Robot-Assisted Vascular Surgery: A Narrative Overview'
     year: '2026'
+  GY_9Zq8AAAAJ:dhFuZR0502QC:
+    citations: 0
+    title: 'Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics'
+    year: '2026'
   GY_9Zq8AAAAJ:hqOjcs7Dif8C:
-    citations: 67
+    citations: 69
     title: 'Machine learning in robotic ultrasound imaging: Challenges and perspectives'
     year: '2024'
   GY_9Zq8AAAAJ:mVmsd5A6BfQC:
