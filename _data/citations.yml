@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-10'
 papers:
   GY_9Zq8AAAAJ:0EnyYjriUFMC:
-    citations: 28
+    citations: 29
     title: Robot-assisted deep venous thrombosis ultrasound examination using virtual fixture
     year: '2024'
   GY_9Zq8AAAAJ:3fE2CSJIrl8C:
@@ -50,11 +50,11 @@ papers:
     title: Vibration-Based Energy Metric for Restoring Needle Alignment in Autonomous Robotic Ultrasound
     year: '2025'
   GY_9Zq8AAAAJ:UebtZRa9Y70C:
-    citations: 48
+    citations: 50
     title: 'Sg-bot: Object rearrangement via coarse-to-fine robotic imagination on scene graphs'
     year: '2024'
   GY_9Zq8AAAAJ:W7OEmFMy1HYC:
-    citations: 13
+    citations: 14
     title: 'Adaptive dynamic programming enhanced admittance control for robots with environment interaction and actuator saturation: H. Zhan et al.'
     year: '2021'
   GY_9Zq8AAAAJ:WF5omc3nYNoC:
@@ -78,7 +78,7 @@ papers:
     title: 'Tactile-Guided Robotic Ultrasound: Mapping Preplanned Scan Paths for Intercostal Imaging'
     year: '2025'
   GY_9Zq8AAAAJ:_FxGoFyzp5QC:
-    citations: 298
+    citations: 301
     title: Neural control of robot manipulators with trajectory tracking constraints and input saturation
     year: '2020'
   GY_9Zq8AAAAJ:_kc_bZDykSQC:
@@ -94,7 +94,7 @@ papers:
     title: 'Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics'
     year: '2026'
   GY_9Zq8AAAAJ:hqOjcs7Dif8C:
-    citations: 69
+    citations: 72
     title: 'Machine learning in robotic ultrasound imaging: Challenges and perspectives'
     year: '2024'
   GY_9Zq8AAAAJ:mVmsd5A6BfQC:
