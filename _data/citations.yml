@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-12'
 papers:
   GY_9Zq8AAAAJ:0EnyYjriUFMC:
     citations: 29
@@ -102,7 +102,7 @@ papers:
     title: 'RAG-RUSS: A Retrieval-Augmented Robotic Ultrasound for Autonomous Carotid Examination'
     year: '2026'
   GY_9Zq8AAAAJ:roLk4NBRz8UC:
-    citations: 25
+    citations: 26
     title: Model predictive optimization for imitation learning from demonstrations
     year: '2023'
   GY_9Zq8AAAAJ:ufrVoPGSRksC:
