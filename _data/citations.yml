@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-07-03'
 papers:
   GY_9Zq8AAAAJ:0EnyYjriUFMC:
-    citations: 29
+    citations: 30
     title: Robot-assisted deep venous thrombosis ultrasound examination using virtual fixture
     year: '2024'
   GY_9Zq8AAAAJ:3fE2CSJIrl8C:
@@ -18,7 +18,7 @@ papers:
     title: An efficient neural network control for manipulator trajectory tracking with output constraints
     year: '2017'
   GY_9Zq8AAAAJ:8k81kl-MbHgC:
-    citations: 16
+    citations: 17
     title: Safe multiagent learning with soft constrained policy optimization in real robot control
     year: '2024'
   GY_9Zq8AAAAJ:9ZlFYXVOiuMC:
@@ -30,7 +30,7 @@ papers:
     title: Semantic scene graph for ultrasound image explanation and scanning guidance
     year: '2025'
   GY_9Zq8AAAAJ:LkGwnXOMwfcC:
-    citations: 61
+    citations: 62
     title: 'Monograspnet: 6-dof grasping with a single rgb image'
     year: '2023'
   GY_9Zq8AAAAJ:M3ejUd6NZC8C:
@@ -42,7 +42,7 @@ papers:
     title: Robotic CBCT meets robotic ultrasound
     year: '2025'
   GY_9Zq8AAAAJ:Se3iqnhoufwC:
-    citations: 29
+    citations: 30
     title: 'Motion magnification in robotic sonography: Enabling pulsation-aware artery segmentation'
     year: '2023'
   GY_9Zq8AAAAJ:ULOm3_A8WrAC:
@@ -50,7 +50,7 @@ papers:
     title: Vibration-Based Energy Metric for Restoring Needle Alignment in Autonomous Robotic Ultrasound
     year: '2025'
   GY_9Zq8AAAAJ:UebtZRa9Y70C:
-    citations: 50
+    citations: 51
     title: 'Sg-bot: Object rearrangement via coarse-to-fine robotic imagination on scene graphs'
     year: '2024'
   GY_9Zq8AAAAJ:W7OEmFMy1HYC:
@@ -70,7 +70,7 @@ papers:
     title: Improving Probe Localization for Freehand 3D Ultrasound Using Lightweight Cameras
     year: '2025'
   GY_9Zq8AAAAJ:YsMSGLbcyi4C:
-    citations: 158
+    citations: 160
     title: Composite learning enhanced neural control for robot manipulator with output error constraints
     year: '2019'
   GY_9Zq8AAAAJ:Zph67rFs4hoC:
@@ -90,7 +90,7 @@ papers:
     title: 'Translational Research and Clinical Trends in Robot-Assisted Vascular Surgery: A Narrative Overview'
     year: '2026'
   GY_9Zq8AAAAJ:dhFuZR0502QC:
-    citations: 0
+    citations: 3
     title: 'Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics'
     year: '2026'
   GY_9Zq8AAAAJ:hqOjcs7Dif8C:
