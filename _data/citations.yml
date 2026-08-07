@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-07'
 papers:
   GY_9Zq8AAAAJ:0EnyYjriUFMC:
     citations: 31
@@ -30,7 +30,7 @@ papers:
     title: 'ConVibNet: needle detection during continuous insertion via frequency-inspired features'
     year: '2026'
   GY_9Zq8AAAAJ:KlAtU1dfN6UC:
-    citations: 4
+    citations: 5
     title: Semantic scene graph for ultrasound image explanation and scanning guidance
     year: '2025'
   GY_9Zq8AAAAJ:LkGwnXOMwfcC:
@@ -54,7 +54,7 @@ papers:
     title: Vibration-Based Energy Metric for Restoring Needle Alignment in Autonomous Robotic Ultrasound
     year: '2025'
   GY_9Zq8AAAAJ:UebtZRa9Y70C:
-    citations: 51
+    citations: 52
     title: 'Sg-bot: Object rearrangement via coarse-to-fine robotic imagination on scene graphs'
     year: '2024'
   GY_9Zq8AAAAJ:W7OEmFMy1HYC:
@@ -71,7 +71,7 @@ papers:
     year: '2018'
   GY_9Zq8AAAAJ:YOwf2qJgpHMC:
     citations: 3
-    title: Improving Probe Localization for Freehand 3D Ultrasound Using Lightweight Cameras
+    title: Improving probe localization for freehand 3D ultrasound using lightweight cameras
     year: '2025'
   GY_9Zq8AAAAJ:YsMSGLbcyi4C:
     citations: 163
@@ -82,27 +82,27 @@ papers:
     title: 'Tactile-Guided Robotic Ultrasound: Mapping Preplanned Scan Paths for Intercostal Imaging'
     year: '2025'
   GY_9Zq8AAAAJ:_FxGoFyzp5QC:
-    citations: 302
+    citations: 305
     title: Neural control of robot manipulators with trajectory tracking constraints and input saturation
     year: '2020'
   GY_9Zq8AAAAJ:_kc_bZDykSQC:
     citations: 2
-    title: 'Freehand 3-D Ultrasound Imaging: Sim-in-the-Loop Probe Pose Optimization via Visual Servoing'
+    title: 'Freehand 3-d ultrasound imaging: Sim-in-the-loop probe pose optimization via visual servoing'
     year: '2025'
   GY_9Zq8AAAAJ:aqlVkmm33-oC:
     citations: 1
     title: 'Translational Research and Clinical Trends in Robot-Assisted Vascular Surgery: A Narrative Overview'
     year: '2026'
   GY_9Zq8AAAAJ:dhFuZR0502QC:
-    citations: 3
+    citations: 6
     title: 'Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics'
     year: '2026'
   GY_9Zq8AAAAJ:hqOjcs7Dif8C:
-    citations: 75
+    citations: 76
     title: 'Machine learning in robotic ultrasound imaging: Challenges and perspectives'
     year: '2024'
   GY_9Zq8AAAAJ:mVmsd5A6BfQC:
-    citations: 0
+    citations: 1
     title: 'RAG-RUSS: A Retrieval-Augmented Robotic Ultrasound for Autonomous Carotid Examination'
     year: '2026'
   GY_9Zq8AAAAJ:roLk4NBRz8UC:
