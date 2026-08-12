@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-12'
 papers:
   GY_9Zq8AAAAJ:0EnyYjriUFMC:
-    citations: 31
+    citations: 32
     title: Robot-assisted deep venous thrombosis ultrasound examination using virtual fixture
     year: '2024'
   GY_9Zq8AAAAJ:3fE2CSJIrl8C:
@@ -22,7 +22,7 @@ papers:
     title: 'Seeing Globally, Refining Locally: Global Visual Guidance and Local Ultrasound Cues for Robust Freehand 3-D Ultrasound Reconstruction'
     year: '2026'
   GY_9Zq8AAAAJ:8k81kl-MbHgC:
-    citations: 16
+    citations: 17
     title: Safe multiagent learning with soft constrained policy optimization in real robot control
     year: '2024'
   GY_9Zq8AAAAJ:9ZlFYXVOiuMC:
@@ -46,7 +46,7 @@ papers:
     title: Robotic CBCT meets robotic ultrasound
     year: '2025'
   GY_9Zq8AAAAJ:Se3iqnhoufwC:
-    citations: 30
+    citations: 31
     title: 'Motion magnification in robotic sonography: Enabling pulsation-aware artery segmentation'
     year: '2023'
   GY_9Zq8AAAAJ:ULOm3_A8WrAC:
@@ -54,7 +54,7 @@ papers:
     title: Vibration-Based Energy Metric for Restoring Needle Alignment in Autonomous Robotic Ultrasound
     year: '2025'
   GY_9Zq8AAAAJ:UebtZRa9Y70C:
-    citations: 52
+    citations: 53
     title: 'Sg-bot: Object rearrangement via coarse-to-fine robotic imagination on scene graphs'
     year: '2024'
   GY_9Zq8AAAAJ:W7OEmFMy1HYC:
@@ -82,7 +82,7 @@ papers:
     title: 'Tactile-Guided Robotic Ultrasound: Mapping Preplanned Scan Paths for Intercostal Imaging'
     year: '2025'
   GY_9Zq8AAAAJ:_FxGoFyzp5QC:
-    citations: 305
+    citations: 306
     title: Neural control of robot manipulators with trajectory tracking constraints and input saturation
     year: '2020'
   GY_9Zq8AAAAJ:_kc_bZDykSQC:
@@ -98,7 +98,7 @@ papers:
     title: 'Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics'
     year: '2026'
   GY_9Zq8AAAAJ:hqOjcs7Dif8C:
-    citations: 76
+    citations: 78
     title: 'Machine learning in robotic ultrasound imaging: Challenges and perspectives'
     year: '2024'
   GY_9Zq8AAAAJ:mVmsd5A6BfQC:
