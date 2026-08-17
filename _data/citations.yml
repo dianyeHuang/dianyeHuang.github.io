@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-17'
 papers:
   GY_9Zq8AAAAJ:0EnyYjriUFMC:
     citations: 32
@@ -22,7 +22,7 @@ papers:
     title: 'Seeing Globally, Refining Locally: Global Visual Guidance and Local Ultrasound Cues for Robust Freehand 3-D Ultrasound Reconstruction'
     year: '2026'
   GY_9Zq8AAAAJ:8k81kl-MbHgC:
-    citations: 17
+    citations: 18
     title: Safe multiagent learning with soft constrained policy optimization in real robot control
     year: '2024'
   GY_9Zq8AAAAJ:9ZlFYXVOiuMC:
@@ -106,7 +106,7 @@ papers:
     title: 'RAG-RUSS: A Retrieval-Augmented Robotic Ultrasound for Autonomous Carotid Examination'
     year: '2026'
   GY_9Zq8AAAAJ:roLk4NBRz8UC:
-    citations: 26
+    citations: 27
     title: Model predictive optimization for imitation learning from demonstrations
     year: '2023'
   GY_9Zq8AAAAJ:ufrVoPGSRksC:
