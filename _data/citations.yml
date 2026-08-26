@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-26'
 papers:
   GY_9Zq8AAAAJ:0EnyYjriUFMC:
-    citations: 32
+    citations: 33
     title: Robot-assisted deep venous thrombosis ultrasound examination using virtual fixture
     year: '2024'
   GY_9Zq8AAAAJ:3fE2CSJIrl8C:
@@ -22,7 +22,7 @@ papers:
     title: 'Seeing Globally, Refining Locally: Global Visual Guidance and Local Ultrasound Cues for Robust Freehand 3-D Ultrasound Reconstruction'
     year: '2026'
   GY_9Zq8AAAAJ:8k81kl-MbHgC:
-    citations: 18
+    citations: 20
     title: Safe multiagent learning with soft constrained policy optimization in real robot control
     year: '2024'
   GY_9Zq8AAAAJ:9ZlFYXVOiuMC:
@@ -82,11 +82,11 @@ papers:
     title: 'Tactile-Guided Robotic Ultrasound: Mapping Preplanned Scan Paths for Intercostal Imaging'
     year: '2025'
   GY_9Zq8AAAAJ:_FxGoFyzp5QC:
-    citations: 306
+    citations: 307
     title: Neural control of robot manipulators with trajectory tracking constraints and input saturation
     year: '2020'
   GY_9Zq8AAAAJ:_kc_bZDykSQC:
-    citations: 2
+    citations: 3
     title: 'Freehand 3-d ultrasound imaging: Sim-in-the-loop probe pose optimization via visual servoing'
     year: '2025'
   GY_9Zq8AAAAJ:aqlVkmm33-oC:
@@ -94,11 +94,11 @@ papers:
     title: 'Translational Research and Clinical Trends in Robot-Assisted Vascular Surgery: A Narrative Overview'
     year: '2026'
   GY_9Zq8AAAAJ:dhFuZR0502QC:
-    citations: 6
+    citations: 8
     title: 'Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics'
     year: '2026'
   GY_9Zq8AAAAJ:hqOjcs7Dif8C:
-    citations: 78
+    citations: 79
     title: 'Machine learning in robotic ultrasound imaging: Challenges and perspectives'
     year: '2024'
   GY_9Zq8AAAAJ:mVmsd5A6BfQC:
